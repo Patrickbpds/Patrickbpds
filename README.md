@@ -3,8 +3,8 @@
 
 <div align='left'>
 <a href="https://github.com/Patrickbpds" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51ADF7&width=435&lines=Patrick+Bpds;FullStack+Developer;1%25+Better+Every+Day" alt="Typing SVG" /></a>
+</a>
 </div>
 
 <div align='left'>
