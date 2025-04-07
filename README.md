@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' width="320" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
 
 <a href="https://github.com/Patrickbpds" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
@@ -6,6 +6,17 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Patrickbpds&color=000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+<a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
+      ><img
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        target="_blank"
+    /></a>
+    <a href="" target="_blank"
+      ><img
+        src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+        target="_blank"
+    /></a>
+    
 <a href="https://wakatime.com/@patrickbpds"
      ><img
         src="https://wakatime.com/badge/user/4f67751f-138a-42a5-bc5f-dc5ec7f8390f.svg"
@@ -180,19 +191,20 @@
       </tbody>
     </table>
   </div>
-  <br />
-  Contact-me:
-  <div>
-    <a href="" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
-        target="_blank"
-    /></a>
-    <a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        target="_blank"
-    /></a>
-  </div>
 </div>
+
+
+### Work experience
+
+In the overview below you will find my most recent work experience:
+
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4E0BAQH0ixWjvwk0hA/company-logo_200_200/company-logo_200_200/0/1684956343730?e=1749686400&v=beta&t=lvMCT68mfsdvzyY29S2h7Ktuo8uOcFFl6H3Vxy5T2kw"/>
+
+**Software Engineer Junior** \
+[**Forja**] • Part-time \
+Languages & Technologies: `Typescript`, `Javascript`, `Node.js`, `PostGreSQL`, `MongoDB`, `React.js`, `Next.js`, `Nest.js`\
+<br/>
+
+
+Please meet me at [LinkedIn](https://www.linkedin.com/in/patrick-development/) for a more detailed description of my work experience, education and certification.
 </div>
