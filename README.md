@@ -8,7 +8,7 @@
 <div width: 100vw; height: 100vh;>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Patrickbpds&color=000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
-<div>
+<div width: 100vw; height: 100vh;>
 <a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
       ><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -20,7 +20,7 @@
         target="_blank"
     /></a>
 </div>
-<div>
+<div width: 100vw; height: 100vh;>
 <a href="https://wakatime.com/@patrickbpds"
      ><img
         src="https://wakatime.com/badge/user/4f67751f-138a-42a5-bc5f-dc5ec7f8390f.svg"
