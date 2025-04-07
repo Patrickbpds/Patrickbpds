@@ -1,3 +1,4 @@
+<div>
 <img align='right' width="350" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
 
 <a href="https://github.com/Patrickbpds" target="_blank">
@@ -20,8 +21,9 @@
 <a href="https://wakatime.com/@patrickbpds"
      ><img
         src="https://wakatime.com/badge/user/4f67751f-138a-42a5-bc5f-dc5ec7f8390f.svg"
-        alt="Time" /></a
-    ><br />
+        alt="Time" /></a>
+ </div>   
+<br />
     </br>
     <br />
 
