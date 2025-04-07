@@ -1,4 +1,4 @@
-<img align='right' width="320" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' width="420" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
 
 <a href="https://github.com/Patrickbpds" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
@@ -193,7 +193,9 @@
   </div>
 </div>
 
-
+ </br>
+    <br />
+    
 ### Work experience
 
 In the overview below you will find my most recent work experience:
