@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
   </a>
 </div>
-<div></div>
+<div width: 100vw; height: 100vh;>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Patrickbpds&color=000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
 <div>
