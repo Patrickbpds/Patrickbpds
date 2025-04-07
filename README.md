@@ -19,7 +19,7 @@
     /></a>
     <a href="" target="_blank"
       ><img
-        src="https://img.shields.io/badge/Portfolio-44F7E1FF?style=for-the-badge&logo=About.me&logoColor=white"
+        src="https://img.shields.io/badge/Portfolio-51ADF7FF?style=for-the-badge&logo=About.me&logoColor=white"
         target="_blank"
     /></a>
 </div>
