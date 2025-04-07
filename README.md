@@ -1,26 +1,21 @@
-<div align="center">
-  <h1 align="center">
-  <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://i.ibb.co/m5H0kHth/Banner-para-Linkedin-Tecnologia-em-Preto.png"  />
-</h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
 
-  <a href="https://github.com/Patrickbpds" target="_blank">
+<a href="https://github.com/Patrickbpds" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
   </a>
 
-  <div align="center">
-    <a href="https://wakatime.com/@patrickbpds"
-      ><img
+<img src="https://img.shields.io/static/v1?label=Overview&message=Patrickbpds&color=000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<a href="https://wakatime.com/@patrickbpds"
+     ><img
         src="https://wakatime.com/badge/user/4f67751f-138a-42a5-bc5f-dc5ec7f8390f.svg"
         alt="Time" /></a
     ><br />
     </br>
-    <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@4f67751f-138a-42a5-bc5f-dc5ec7f8390f/fdbe5060-67e4-43e9-80c8-383ffed371eb.png"
-        width="450px"
-        height="320px" /></a
-    ><br />
-  </div>
-  <div style="display: flex; align-items: center; justify-content: center">
+    <br />
+
+    
+  <div style="display: center; align-items: center; justify-content: center">
     <table>
       <tbody>
         <tr>
