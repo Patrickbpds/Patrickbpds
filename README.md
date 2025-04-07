@@ -1,5 +1,5 @@
 <div>
-<img align='right' width="350" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' width="330" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
 
 <div align='left'>
 <a href="https://github.com/Patrickbpds" target="_blank">
