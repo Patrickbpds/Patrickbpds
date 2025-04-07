@@ -14,7 +14,7 @@
     </br>
     <br />
 
-    
+<div align="center">
   <div style="display: center; align-items: center; justify-content: center">
     <table>
       <tbody>
@@ -194,4 +194,5 @@
         target="_blank"
     /></a>
   </div>
+</div>
 </div>
