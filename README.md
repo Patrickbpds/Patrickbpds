@@ -1,14 +1,16 @@
-<div>
 <img align='right' width="350" height="205" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
-<div>
+
+<div align='left'>
 <a href="https://github.com/Patrickbpds" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
   </a>
 </div>
-<div width: 100vw; height: 100vh;>
+
+<div align='left'>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Patrickbpds&color=000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
-<div width: 100vw; height: 100vh;>
+
+<div align='left'>
 <a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
       ><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -20,7 +22,7 @@
         target="_blank"
     /></a>
 </div>
-<div width: 100vw; height: 100vh;>
+<div align='left'>
 <a href="https://wakatime.com/@patrickbpds"
      ><img
         src="https://wakatime.com/badge/user/4f67751f-138a-42a5-bc5f-dc5ec7f8390f.svg"
