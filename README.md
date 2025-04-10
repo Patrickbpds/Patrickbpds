@@ -9,16 +9,14 @@
 </div>
 
 <div align='left'>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Patrickbpds&color=000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-</div>
-
-<div align='left'>
 <a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
       ><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"
     /></a>
 </div>
+<br />
+</br>
 <div align='left'>
 <a href="https://wakatime.com/@patrickbpds"
      ><img
