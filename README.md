@@ -21,13 +21,11 @@
 
 <br />
 
-<div>
+<div align='center'>
 <img align='center' width="600" height="405" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
 
 </div>   
 
-<br />
-</br>
 <br />
 
 <div align="center">
