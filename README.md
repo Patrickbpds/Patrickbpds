@@ -16,7 +16,6 @@
     /></a>
 </div>
 <br />
-</br>
 <div align='left'>
 <a href="https://wakatime.com/@patrickbpds"
      ><img
