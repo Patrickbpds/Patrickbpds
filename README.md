@@ -1,4 +1,4 @@
-<div align='center'>
+<div>
 <div align='left'>
 <a href="https://github.com/Patrickbpds" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51ADF7&width=435&lines=Patrick+Bpds;FullStack+Developer;1%25+Better+Every+Day" alt="Typing SVG" /></a>
@@ -23,8 +23,7 @@
 
 <div align='center'>
 <img align='center' width="600" height="405" src="https://github-readme-stats.vercel.app/api?username=Patrickbpds&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
-
-</div>   
+</div> 
 
 <br />
 
