@@ -188,21 +188,3 @@
     </table>
   </div>
 </div>
-
- </br>
-    <br />
-<div align= "left">
-### Work experience
-
-In the overview below you will find my most recent work experience:
-
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4E0BAQH0ixWjvwk0hA/company-logo_200_200/company-logo_200_200/0/1684956343730?e=1749686400&v=beta&t=lvMCT68mfsdvzyY29S2h7Ktuo8uOcFFl6H3Vxy5T2kw"/>
-
-**Software Engineer Junior** \
-[**Forja**] • Part-time \
-Languages & Technologies: `Typescript`, `Javascript`, `Node.js`, `PostGreSQL`, `MongoDB`, `React.js`, `Next.js`, `Nest.js`\
-<br/>
-
-
-Please meet me at [LinkedIn](https://www.linkedin.com/in/patrick-development/) for a more detailed description of my work experience, education and certification.
-</div>
