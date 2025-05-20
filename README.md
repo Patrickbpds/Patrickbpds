@@ -31,9 +31,9 @@ const developer = {
   },
   hardskills: {
     Linguagens: ["Java", "JavaScript", "TypeScript"],
-    Back-end: ["Spring", "Node.js", "Express", "Nest.js"],
-    Front-end: ["React.js", "Next.js", "Tailwind CSS", "Styled-Components", "Shadcn UI"],
-    Banco de dados: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    BackEnd: ["Spring", "Node.js", "Express", "Nest.js"],
+    FrontEnd: ["React.js", "Next.js", "Tailwind CSS", "Styled-Components", "Shadcn UI"],
+    BancoDeDados: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
     Ferramentas: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
   },
 curiosities: {
