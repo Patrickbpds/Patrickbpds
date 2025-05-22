@@ -1,9 +1,7 @@
 <div>
 <div align='left'>
-<a href="https://github.com/Patrickbpds" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51ADF7&width=435&lines=Patrick+Bpds;FullStack+Developer;1%25+Better+Every+Day" alt="Typing SVG" /></a>
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1299F7&width=435&lines=Patrick+Batista;FullStack+developer;Focused+on+Back-End;1%25+Better+Every+Day." alt="Typing SVG" /></a>
+</div>
 <div align='left'>
 <a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
       ><img
