@@ -9,13 +9,6 @@
         target="_blank"
     /></a>
 </div>
-<br />
-<div align='lefet'>
-<a href="https://wakatime.com/@patrickbpds"
-     ><img
-        src="https://wakatime.com/badge/user/4f67751f-138a-42a5-bc5f-dc5ec7f8390f.svg"
-        alt="Time" /></a>
-</div> 
 
 <br />
 
