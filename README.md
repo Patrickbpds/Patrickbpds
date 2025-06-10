@@ -1,6 +1,6 @@
 <div>
 <div align='left'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1299F7&width=435&lines=Patrick+Batista;FullStack+developer;Focused+on+Back-End;1%25+Better+Every+Day." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1196FF&width=435&lines=Patrick+Batista;BackEnd+Developer;1%25+Better+Every+Day." alt="Typing SVG" /></a>
 </div>
 <div align='left'>
 <a href="https://www.linkedin.com/in/patrick-development/" target="_blank"
@@ -21,11 +21,11 @@ const developer = {
     email: "patrickbpds@outlook.com",
   },
   hardskills: {
-    Linguagens: ["Java", "JavaScript", "TypeScript"],
+    Languages: ["Java", "JavaScript", "TypeScript"],
     BackEnd: ["Spring Boot", "Node.js", "Express", "Nest.js"],
     FrontEnd: ["React.js", "Next.js", "Tailwind CSS", "Styled-Components", "Shadcn UI"],
-    BancoDeDados: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-    Ferramentas: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
+    DataBase: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    Tools: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
   },
 curiosities: {
     hobbies: ["Read", "Workout", "Code", "Series", "Podcasts"],
