@@ -18,13 +18,12 @@ const developer = {
   profile: {
     name: "Patrick Batista",
     location: "Rio de Janeiro, Brazil",
-    email: "patrickbpds@outlook.com",
   },
   hardskills: {
     Languages: ["Java", "JavaScript", "TypeScript"],
     BackEnd: ["Spring Boot", "Node.js", "Express", "Nest.js"],
     FrontEnd: ["React.js", "Next.js", "Tailwind CSS", "Styled-Components", "Shadcn UI"],
-    DataBase: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    DataBase: ["PostgreSQL", "MySQL", "MongoDB"],
     Tools: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
   },
 curiosities: {
