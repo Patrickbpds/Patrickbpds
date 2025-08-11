@@ -22,12 +22,11 @@ const developer = {
   hardskills: {
     Languages: ["Java", "JavaScript", "TypeScript"],
     BackEnd: ["Spring Boot", "Node.js", "Express", "Nest.js"],
-    FrontEnd: ["React.js", "Next.js", "Tailwind CSS", "Styled-Components", "Shadcn UI"],
     DataBase: ["PostgreSQL", "MySQL", "MongoDB"],
     Tools: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
   },
 curiosities: {
-    hobbies: ["Read", "Workout", "Code", "Series", "Podcasts"],
+    hobbies: ["Read", "Workout", "Code", "Podcasts"],
   }
 };
 
