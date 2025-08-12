@@ -26,7 +26,10 @@ const developer = {
     Tools: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
   },
 curiosities: {
-    hobbies: ["Read", "Workout", "Code", "Podcasts"],
+    hobbies: ["Read", "Code", "Podcasts"],
+  },
+languages: {
+    ["Portuguese", "English", "Russian", "German", "Hebrew"],
   }
 };
 
