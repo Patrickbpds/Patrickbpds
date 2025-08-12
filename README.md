@@ -25,10 +25,10 @@ const developer = {
     DataBase: ["PostgreSQL", "MySQL", "MongoDB"],
     Tools: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
   },
-curiosities: {
+  curiosities: {
     hobbies: ["Read", "Code", "Podcasts"],
   },
-languages: {
+  languages: {
     ["Portuguese", "English", "Russian", "German", "Hebrew"],
   }
 };
