@@ -23,7 +23,7 @@ const developer = {
     Languages: ["Java", "JavaScript", "TypeScript"],
     BackEnd: ["Spring Boot", "Node.js", "Express", "Nest.js"],
     DataBase: ["PostgreSQL", "MySQL", "MongoDB"],
-    Tools: ["Git/GitHub", "Docker", "Swagger", "Postman", "CI/CD"],
+    Tools: ["Git/GitHub", "Docker", "Kubernetes", "Swagger", "Postman", "CI/CD"],
   },
   curiosities: {
     hobbies: ["Read", "Code", "Podcasts"],
