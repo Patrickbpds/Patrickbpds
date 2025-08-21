@@ -20,7 +20,7 @@ const developer = {
     location: "Rio de Janeiro, Brazil",
   },
   hardskills: {
-    Languages: ["Java", "JavaScript", "TypeScript"],
+    Languages: ["Java", "Go (Golang)", "JavaScript", "TypeScript"],
     BackEnd: ["Spring Boot", "Node.js", "Express", "Nest.js"],
     DataBase: ["PostgreSQL", "MySQL", "MongoDB"],
     Tools: ["Git/GitHub", "Docker", "Kubernetes", "Swagger", "Postman", "CI/CD"],
