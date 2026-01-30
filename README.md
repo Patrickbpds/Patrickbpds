@@ -11,26 +11,3 @@
 </div>
 
 <br />
-
-```javascript
-
-const developer = {
-  profile: {
-    name: "Patrick Batista",
-    location: "Rio de Janeiro, Brazil",
-  },
-  hardskills: {
-    Languages: ["Java", "Go (Golang)", "JavaScript", "TypeScript"],
-    BackEnd: ["Spring Boot", "Node.js", "Express", "Nest.js"],
-    DataBase: ["PostgreSQL", "MySQL", "MongoDB"],
-    Tools: ["Git/GitHub", "Docker", "Kubernetes", "Swagger", "Postman", "CI/CD"],
-  },
-  curiosities: {
-    hobbies: ["Read", "Code", "Podcasts"],
-  },
-  languages: {
-    ["Portuguese", "English", "Russian", "German", "Hebrew"],
-  }
-};
-
-```
