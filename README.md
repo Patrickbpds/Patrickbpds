@@ -1,25 +1,10 @@
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1196FF&width=435&lines=Patrick+Batista;Java+Back-End+Engineer;Clean+Architecture+Enthusiast;1%25+Better+Every+Day." alt="Typing SVG" />
   </a>
 </div>
 
 <img src="./assets/banner.png" alt="Patrick Backend Developer" width="100%" />
-
----
-
-## 👨‍💻 About Me
-
-```java
-public class PatrickBatista {
-    private String role = "Back-End Engineer";
-    private String[] focus = {"Java", "Spring Boot"};
-    
-    public String getPhilosophy() {
-        return "Lifelong Learner: 1% better every day";
-    }
-}
-```
 
 ---
 
