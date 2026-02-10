@@ -1,10 +1,11 @@
-<div align="center">
+<div>
+  <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1196FF&width=435&lines=Patrick+Batista;Java+Back-End+Engineer;Clean+Architecture+Enthusiast;1%25+Better+Every+Day." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1196FF&width=435&lines=Patrick+Batista;Java+BackEnd+Engineer;Clean+Architecture+Enthusiast;1%25+Better+Every+Day." alt="Typing SVG" />
   </a>
+  </div>
+   <img src="./assets/banner.png" alt="Patrick Backend Developer" width="435" />
 </div>
-
-<img src="./assets/banner.png" alt="Patrick Backend Developer" width="100%" />
 
 ---
 
