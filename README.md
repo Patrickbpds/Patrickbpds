@@ -1,10 +1,7 @@
 <div>
-  <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1196FF&width=435&lines=Patrick+Batista;Java+BackEnd+Engineer;Clean+Architecture+Enthusiast;1%25+Better+Every+Day." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1196FF&width=435&lines=Patrick+Batista;Java+BackEnd+Engineer;1%25+Better+Every+Day." alt="Typing SVG" />
   </a>
-  </div>
-   <img src="./assets/banner.png" alt="Patrick Backend Developer" width="435" />
 </div>
 
 ---
@@ -59,10 +56,10 @@
 
 </div>
 
-**Containers:** Docker • Kubernetes  
-**CI/CD:** Jenkins • GitLab CI • GitHub Actions  
+**Containers:** Docker • Kubernetes
+**CI/CD:** Jenkins • GitLab CI • GitHub Actions
 **Cloud:** AWS • Oracle Cloud
-**Messaging:** Apache Kafka 
+**Messaging:** Apache Kafka
 **IaC:** Terraform  
 **Observability:** Grafana • Prometheus
 
@@ -78,15 +75,6 @@
 ### 📚 Current Learning
 - 🎯 **FullCycle 4.0** (In Progress) - Microservices, DevOps, SRE, CI/CD, Kubernetes
 - 🎯 **Java SE 21 Developer Certification** (1Z0-830) - In preparation
-
----
-
-## 🌍 Languages
-
-🇧🇷 **Portuguese** - Native  
-🇺🇸 **English** - Intermediate (B1)  
-🇩🇪 **German** - Intermediate (B1)  
-🇷🇺 **Russian** - Beginner (A1)
 
 ---
 
