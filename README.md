@@ -55,28 +55,16 @@
 
 <div>
 
-### ⚙️ DevOps & Cloud
+### ⚙️ DevOps & Cloud & Messaging
 
 </div>
 
 **Containers:** Docker • Kubernetes  
 **CI/CD:** Jenkins • GitLab CI • GitHub Actions  
-**Cloud:** AWS • Oracle Cloud  
+**Cloud:** AWS • Oracle Cloud
+**Messaging:** Apache Kafka 
 **IaC:** Terraform  
 **Observability:** Grafana • Prometheus
-
----
-
-<div>
-
-### 📡 Messaging & Tools
-
-</div>
-
-**Messaging:** Apache Kafka  
-**Build Tools:** Maven • Gradle  
-**API Docs:** Swagger/OpenAPI  
-**Tools:** Git • Postman • Neovim (custom Java setup) • Jira
 
 ---
 
